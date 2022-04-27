@@ -1,3 +1,6 @@
+#Uma forma de brincar com pycharm
+
+#veja uma estrela feita por uma tartaruga
 import turtle
 star = turtle.Turtle()
 star.shape('turtle')
